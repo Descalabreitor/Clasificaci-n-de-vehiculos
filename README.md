@@ -1,2 +1,8 @@
-# Clasificaci-n-de-vehiculos
-Entrenamiento y creación de una red neuronal que clasifica fotos de distintos tipos de vehiculos
+# Clasificación de vehiculos
+El modelo creado clasifica fotos entre:
+Bicicletas, 
+Autobuses, 
+Coches,
+Motos,
+Camiones y 
+Caravanas. EL modelo una vez entrenado se guarda en formato JSON para su testeo con fotos individuales a posteriori 
